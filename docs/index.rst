@@ -14,7 +14,7 @@ Contents:
    getting-started
    commands
 
-   readme
+   
    modules
 
 
